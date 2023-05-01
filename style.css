@@ -1,0 +1,38 @@
+.item-menu {
+    width: 25%;
+    background-color: aquamarine;
+    font-size: 20px;
+    color: blue;
+}
+.titulo-principal {
+    font-size: 35px;
+    color: red;
+}
+.dia {
+    font-weight: bold;
+    color: blue;
+    font-size: 25px;
+}
+.horarios {
+    font-style: italic;
+    font-size: 15px;
+    color: blue;
+}
+.medio-dia {
+    font-weight: bold;
+    color: darkviolet;
+    font-size: 25px;
+}
+.horario {
+    font-style: italic;
+    font-size: 15px;
+    color: blueviolet;
+}
+.dias-horarios {
+    background-color: blue;
+    font-weight: bold;
+    font-size: 25px;
+}
+.cabecera {
+    background-image: purple;
+}
